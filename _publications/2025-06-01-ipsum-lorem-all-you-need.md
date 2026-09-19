@@ -13,4 +13,4 @@ codeurl: 'https://github.com/mcptest-user/ipsum-lorem-all-you-need'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Accepted at COML 2025 - Conference on Machine Learning</i>.'
 ---
 Selected for oral presentation at COML 2025.
-Code is available at https://github.com/mcptest-user/ipsum-lorem-all-you-need (released repository: ipsum-lorem-all-you-need).
+Code is available at https://github.com/mcptest-user/ipsum-lorem-all-you-need (released repository: ipsum-lorem-all-you-need, also at https://github.com/hkustnlp-cmyk/ipsum-lorem-all-you-need).
