@@ -12,3 +12,4 @@ bibtexurl: 'http://yourwebsite.com/files/bibtex-llm-adaptive-learning.bib'
 codeurl: 'https://github.com/mcptest-user/llm-adaptive-learning'
 citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." <i>Accepted at ICML 2025 - International Conference on Machine Learning</i>.'
 ---
+Code is available at https://github.com/mcptest-user/llm-adaptive-learning (released repository: llm-adaptive-learning, also at https://github.com/hkustnlp-cmyk/llm-adaptive-learning).
